@@ -14,8 +14,6 @@ Repensamos a estrutura do painel, reorganizando as informações de forma lógic
 🎯 Dashboard Centralizado:
 Introduzimos um dashboard centralizado para fornecer uma visão global das atividades recentes e tarefas prioritárias. Isso capacita os moderadores a responder prontamente às necessidades da comunidade.
 
-🚀 Melhoria na Comunicação:
-Implementamos recursos de comunicação interna, aprimorando a interação entre os membros da equipe. Destaques para mensagens importantes e atualizações garantem uma comunicação clara sobre políticas e procedimentos.
 
 # Painel atual:
 
